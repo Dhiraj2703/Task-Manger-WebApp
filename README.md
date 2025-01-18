@@ -1,4 +1,4 @@
-# Task-Manger-WebApp
+# Task-Manager-WebApp
 A simple task manager app created using mern stack
 
 First start the api directory using npm start, then run the client directory using npm run dev.
